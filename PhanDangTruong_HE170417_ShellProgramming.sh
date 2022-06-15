@@ -33,10 +33,10 @@ do
 			;;
 			
 		d|D) 	read -p "Please enter file name: " name
-			if [[ -f "/ect/$name" ]]
+			if [[ -f "$name" ]]
 			then 
 				echo "$name is an ordinary file"
-			elif [[ -d "/ect/$name" ]]
+			elif [[ -d "$name" ]]
 			then
 				echo "$name is a directory."
 			else

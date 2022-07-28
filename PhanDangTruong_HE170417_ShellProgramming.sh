@@ -1,8 +1,8 @@
 #Assignment: Shell Programming
-#Class ID: 11
-#Student ID: HE170417
-#Student Name: Phan Dang Truong
-#Phan Dang Truong_HE170417_ShellProgramming.sh
+#Class ID: 23
+#Student ID: HE172433
+#Student Name: Vu Hong Phuc
+#VuHongPhuc_HE172433_ShellProgramming.sh
 #!/bin/bash
 
 clear
